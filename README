@@ -18,26 +18,28 @@ CONFIG.* $config (The configuration variable you passed on to the bot)
 
 
 Framework tested by:
-GtoXic [John Houlder]\r\n
+
+GtoXic [John Houlder]
+
 Dead-i [Uknown]
+
 GothX  [Matthew Lutz]
 
-
-
-
-
-
 Requirements:
+
 PHP => 5.0
+
 PHP knowledge
 
 Future Requirements:
+
 NodeJS (Unknown version due to constant updates)
 
 
-
-
 Current functions:
+
 raw(<COMMAND>)
+
 msg(<CHANNEL/USER>,<MESSAGE>)
+
 disp(<MESSAGE>,[LEVEL=1])
